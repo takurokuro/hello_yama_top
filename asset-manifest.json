@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hello_yama_top/static/css/main.bb4839a6.css",
+    "main.js": "/hello_yama_top/static/js/main.a2207615.js",
+    "static/media/topImg_9.jpg": "/hello_yama_top/static/media/topImg_9.f23094d1ee1f05ea9f03.jpg",
+    "static/media/topImg_10.jpg": "/hello_yama_top/static/media/topImg_10.0dddfaa322baddeb6c00.jpg",
+    "static/media/topImg_1.jpg": "/hello_yama_top/static/media/topImg_1.380cefa62850686f36aa.jpg",
+    "static/media/topImg_7.jpg": "/hello_yama_top/static/media/topImg_7.1f4d8e37d8dde42caafd.jpg",
+    "static/media/topImg_5.jpg": "/hello_yama_top/static/media/topImg_5.0f768fa6fa519a1b9338.jpg",
+    "static/media/topImg_6.jpg": "/hello_yama_top/static/media/topImg_6.ecc27febbc83e38ec419.jpg",
+    "static/media/topImg_3.jpg": "/hello_yama_top/static/media/topImg_3.02c6dd23ec1629b692cd.jpg",
+    "static/media/topImg_8.jpg": "/hello_yama_top/static/media/topImg_8.65e394e5b012fc915529.jpg",
+    "static/media/test111.jpg": "/hello_yama_top/static/media/test111.6fb95946ae98e4746920.jpg",
+    "static/media/test222.jpg": "/hello_yama_top/static/media/test222.f6d55399a5056a8393bb.jpg",
+    "static/media/topImg_2.jpg": "/hello_yama_top/static/media/topImg_2.73f4b6b20254f9e9369e.jpg",
+    "static/media/topImg_4.jpg": "/hello_yama_top/static/media/topImg_4.155de8c634d39c0d9e27.jpg",
+    "static/media/yamashita_web_1224_cc-37.jpg": "/hello_yama_top/static/media/yamashita_web_1224_cc-37.835568cf0b6069d6154a.jpg",
+    "static/media/white_img.jpg": "/hello_yama_top/static/media/white_img.3ad47fab9396f43154b4.jpg",
+    "static/media/yamaLogo_6.svg": "/hello_yama_top/static/media/yamaLogo_6.1f721e6d94e4d88faf578ab44ca55155.svg",
+    "static/media/yamaLogo_2.svg": "/hello_yama_top/static/media/yamaLogo_2.eab84e22fea4e2167420edae9d1198fc.svg",
+    "static/media/yamaLogo_5.svg": "/hello_yama_top/static/media/yamaLogo_5.55e8a52f81e373ae73d49454a5911916.svg",
+    "static/media/yamaLogo_4.svg": "/hello_yama_top/static/media/yamaLogo_4.cb724427183649fb7430aeedcb2dcb69.svg",
+    "static/media/yamaLogo_3.svg": "/hello_yama_top/static/media/yamaLogo_3.aaf57dbf974d823e2da2690fd20fb241.svg",
+    "static/media/yamaLogo_1.svg": "/hello_yama_top/static/media/yamaLogo_1.e808131ea2a069d2b1fa8cfbb1176212.svg",
+    "index.html": "/hello_yama_top/index.html",
+    "main.bb4839a6.css.map": "/hello_yama_top/static/css/main.bb4839a6.css.map",
+    "main.a2207615.js.map": "/hello_yama_top/static/js/main.a2207615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb4839a6.css",
+    "static/js/main.a2207615.js"
+  ]
+}
